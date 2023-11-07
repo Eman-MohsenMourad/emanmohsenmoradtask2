@@ -1,0 +1,11 @@
+.side{
+    background-color: rgb(207, 206, 206);
+    width: 100px;
+    height: 500px;
+    color: rgb(156, 20, 172);
+    text-align: center;
+    justify-content: center;
+    padding-top: 150px;
+    font-weight: bolder;
+    font-size: x-large;
+}
